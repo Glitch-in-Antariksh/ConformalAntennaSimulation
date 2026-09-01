@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+venv/
+
+# PyCharm project settings
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# openEMS simulation output/temp files (if generated inside the project folder)
+*.h5
+*.vtk
+*.xml
+Sim_Path/
